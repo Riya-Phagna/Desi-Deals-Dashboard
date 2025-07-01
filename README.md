@@ -1,4 +1,5 @@
 📊 Desi Deals Dashboard
+
 Project Title: Desi Deals Dashboard
 Company: Codtech IT Solutions
 Name: Riya 
@@ -71,4 +72,4 @@ desi-deals-dashboard/
 └── README.md                             # Project documentation
 
 📁 Output
-
+![Image](https://github.com/user-attachments/assets/9d6eccdf-dc4c-49d5-9d82-cc4354ae1a88)
