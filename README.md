@@ -2,7 +2,7 @@
 
 Project Title: Desi Deals Dashboard
 Company: Codtech IT Solutions
-Name: Riya 
+Name: Riya Phagna
 Intern ID: CT04DF942
 Domain: Power BI
 Duration: 4 Weeks
